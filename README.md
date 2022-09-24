@@ -1,2 +1,2 @@
-# competitive_programming_code
+# dsa pratice questions
 competitive revise code
